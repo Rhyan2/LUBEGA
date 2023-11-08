@@ -1,6 +1,7 @@
                                                              CAUSES OF MENTAL ILLNESS
                                                              
 Mental illness is a condition that involves change in the way a person a person thinks,feels and acts towards others.It is all defined as a series of chronic disruptions that affect the neural circutes of brain by NAMI(National Alliance on Mental Illness)
+
 The causes of mental illness can be environmental physical and phycological as otlined below;
 
 1.DRUGS AND ALCOHOL
