@@ -18,6 +18,7 @@ Stress is a natural  response to challenging or demanding situations.It can aris
  4 GENETICS OF A PERSON
  
  Genetics is the biology that deals with the study of inheritance of traits of traits or characters from parents to there offsprings.Some mental illnesses according to scientists have  potential genetic roots for example disorders like autism, attention deficit hyperactivity disorder (ADHD), bipolar disorder  have a genetic component, meaning they can run in families. People with a family history of such mental illness may are at a higher risk of developing the same or related disorders. Genetic variations or mutations can be passed down from parents to their children, increasing the likelihood of developing specific conditions.
+ 
  5.TRAMATIC CHILD EXPERIENCES
  
 A traumatic  experience is  an event  that are greatly disturbing, often to much for an individual to handle causing  emotional and psychological harm.Search an experience at young age can have long-lasting effects  on mental health and potentially contribute to the development of mental illness Such events may include war,loss of loved ones,sexual abuse,natural diasters,serious accidents,neglect among others.Traumatic experiences can result to failure to form secure attachments and healthy relationships. This can lead to difficulties in trusting others, forming close connections, and regulating emotions, increasing the risk of developing mental health conditions such as anxiety disorders, depression, or personality disorders.
