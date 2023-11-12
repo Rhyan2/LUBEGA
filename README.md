@@ -38,6 +38,7 @@ A traumatic  experience is  an event  that are greatly disturbing, often to much
  The effects of mental illness may differ according to different people and thus it's highly advised to seek medical attention,take patients for mental therapy therapy,not to isolate the people suffering from the illness and families and peers should provide support to those affected.
 
  Refer to  the following amazing youtube videos to know about mental illness;
+
  https://youtu.be/Te8DnpcA4-A?si=QOwjGFWjPn48uYwb
  
  https://youtu.be/JQ_DmuNlCFg?si=AuMqhisctK0_SpY0
