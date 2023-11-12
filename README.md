@@ -46,7 +46,7 @@ A traumatic  experience is  an event  that are greatly disturbing, often to much
  
  ### "ITS OKAY NOT TO BE OKAY, MENTAL ILLNESS IS NOT A CRIME AND SEEK FOR HEALTH" 
 
-<img src="https://github.com/Rhyan2/LUBEGA/assets/148863405/32e3d9be-81f1-490c-b55d-1d77b8f1396d" width="800" height="500"> 
+<img src="https://github.com/Rhyan2/LUBEGA/assets/148863405/32e3d9be-81f1-490c-b55d-1d77b8f1396d" width="600" height="300"> 
  
  
  
