@@ -34,7 +34,9 @@ A traumatic  experience is  an event  that are greatly disturbing, often to much
  The ideas  above are some of the  many causes of mental illness today. 
 
  Mental illness has affected people in very many mysterious ways leading to  in change in eating habbits,social phobia,lack of sleep,excessive worrying ,victims run mad,personal change,loss of confidence,cases of succide where people take there own lifesThe National institute of Health estimate that a percentage of 14.3% people die each year due to mental illness which is approximately about eight million people per year making it among the major causes of death worldwide
+
  The effects of mental illness may differ according to different people and thus it's highly advised to seek medical attention,take patients for mental therapy therapy,not to isolate the people suffering from the illness and families and peers should provide support to those affected.
+
  Refer to  the following amazing youtube videos to know about mental illness;
  https://youtu.be/Te8DnpcA4-A?si=QOwjGFWjPn48uYwb
  
