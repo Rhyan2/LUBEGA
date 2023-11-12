@@ -1,4 +1,4 @@
-![charlotte-knight-aUw2sgqnG9s-unsplash](https://github.com/Rhyan2/LUBEGA/assets/148863405/55c7915e-af40-4fb1-a499-7e0eb11ac66a)
+<charlotte-knight-aUw2sgqnG9s-unsplash src="https://github.com/Rhyan2/LUBEGA/assets/148863405/55c7915e-af40-4fb1-a499-7e0eb11ac66a"width="100" height="100">
    
                                                              
    # CAUSES OF MENTAL ILLNESS
