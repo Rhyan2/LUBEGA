@@ -1,5 +1,4 @@
-
-   #  HOW MENTAL ILLNESS COMES ABOUT
+ #  HOW MENTAL ILLNESS COMES ABOUT
  
  
  <img src="https://github.com/Rhyan2/LUBEGA/assets/148863405/827c1ca6-26bf-4f1b-8dae-c58f9b19fc8f" width="400" height="500">
