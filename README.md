@@ -1,4 +1,4 @@
-<img src="https://github.com/Rhyan2/LUBEGA/assets/148863405/827c1ca6-26bf-4f1b-8dae-c58f9b19fc8f" width="500" height="300">
+                                               <img src="https://github.com/Rhyan2/LUBEGA/assets/148863405/827c1ca6-26bf-4f1b-8dae-c58f9b19fc8f" width="500" height="300">
    
 
                                                              
