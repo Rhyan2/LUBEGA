@@ -1,6 +1,6 @@
- <img src="https://github.com/Rhyan2/LUBEGA/assets/148863405/827c1ca6-26bf-4f1b-8dae-c58f9b19fc8f" width="500" height="500">
+ <img src="https://github.com/Rhyan2/LUBEGA/assets/148863405/827c1ca6-26bf-4f1b-8dae-c58f9b19fc8f" width="400" height="500">
    
-<img src="https://github.com/Rhyan2/LUBEGA/assets/148863405/697b5d69-141c-4f10-8cc7-31d52639ca9c" width="700" height="500">
+<img src="https://github.com/Rhyan2/LUBEGA/assets/148863405/697b5d69-141c-4f10-8cc7-31d52639ca9c" width="500" height="500">
                                                              
    # CAUSES OF MENTAL ILLNESS
 
