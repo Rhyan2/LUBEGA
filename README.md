@@ -49,6 +49,12 @@ A traumatic  experience is  an event  that are greatly disturbing, often to much
  https://youtu.be/44WvzyRp0MI?si=juMpJAZ1NYOXT06S
  
  https://youtu.be/1ozj7TvpDHI?si=kCjhjEwQY8zqibiM
+
+ ## CREDICTS TO
+ National Alliance on Mental Illness
+
+ Github images
+ 
  
  ### "ITS OKAY NOT TO BE OKAY, MENTAL ILLNESS IS NOT A CRIME AND SEEK FOR HEALTH" 
 
