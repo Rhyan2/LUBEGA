@@ -7,7 +7,7 @@ NEWS_API_KEY = '819b8f8470e84ff7b5df619b12263a7f'
 
 @app.route('/')
 def home():
-    # Fetch news about cancer advancements from the News API
+    
     api_url = f'https://newsapi.org/v2/everything?q=cancer&apiKey={NEWS_API_KEY}'
     response = requests.get(api_url)
 
