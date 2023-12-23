@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-NEWS_API_KEY = '819b8f8470e84ff7b5df619b12263a7f'
+NEWS_API_KEY = os.getenv("API_KEY")
 
 @app.route('/')
 def home():
