@@ -28,5 +28,5 @@ jobs:
 
     - name: Run Your Code
       run: |
-        python your_script.py
+        python main.py
  
