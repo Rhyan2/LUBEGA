@@ -28,5 +28,7 @@ jobs:
 
     - name: Run Your Code
       run: |
+       cd lubega/project8
+      
         python main.py
  
