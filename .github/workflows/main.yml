@@ -1,4 +1,4 @@
-name: CANCER UPDATES
+name: Cancer Workflow
 
 on:
   push:
@@ -18,11 +18,16 @@ jobs:
       with:
         python-version: 3.x
 
-    - name: Use API Key
+    - name: Set API Key
       run: echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
 
-    
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
     - name: Run Your Code
       run: |
-       python main.py
+        python main.py
+
  
