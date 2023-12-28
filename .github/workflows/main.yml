@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
         
 
-    - name: Run Your Code
+    
     - name: Run Your Code
       timeout-minutes: 2
       run: python main.py
