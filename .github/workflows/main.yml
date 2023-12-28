@@ -30,5 +30,8 @@ jobs:
     - name: Run Your Code
       run: |
         python main.py
+        
+    - name: Stop Gunicorn
+      run: pkill -f "gunicorn -w 4 -b 0.0.0.0:5000 main:app"  
 
  
